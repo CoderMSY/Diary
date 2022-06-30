@@ -1,0 +1,30 @@
+PODS:
+  - HandyJSON (5.0.2)
+  - SnapKit (5.6.0)
+  - SQLite.swift (0.13.3):
+    - SQLite.swift/standard (= 0.13.3)
+  - SQLite.swift/standard (0.13.3)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - HandyJSON
+  - SnapKit
+  - SQLite.swift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - HandyJSON
+    - SnapKit
+    - SQLite.swift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SQLite.swift: 903bfa3bc9ab06345fdfbb578e34f47cfcf417da
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 95b2fef51a046d73f6373e3cdf0766e0f7761bbd
+
+COCOAPODS: 1.11.3
